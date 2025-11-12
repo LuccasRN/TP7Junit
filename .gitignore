@@ -4,7 +4,6 @@
 *.iws
 
 # Maven/Gradle specific folders
-target/
 build/
 out/
 
